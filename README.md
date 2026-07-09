@@ -114,9 +114,9 @@ Research project using Machine Learning and Explainable AI to identify false pos
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anandsurendran747&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandsurendran747&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -126,7 +126,7 @@ Research project using Machine Learning and Explainable AI to identify false pos
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Anandsurendran747&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Research project using Machine Learning and Explainable AI to identify false pos
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anandsurendran747&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -144,8 +144,8 @@ Research project using Machine Learning and Explainable AI to identify false pos
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/Anandsurendran747
+- LinkedIn: https://www.linkedin.com/in/anandsurendran
 
 ---
 
