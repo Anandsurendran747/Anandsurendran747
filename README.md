@@ -110,37 +110,7 @@ Research project using Machine Learning and Explainable AI to identify false pos
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anandsurendran747&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandsurendran747&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anandsurendran747&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anandsurendran747&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 ## 📫 Connect with Me
 
